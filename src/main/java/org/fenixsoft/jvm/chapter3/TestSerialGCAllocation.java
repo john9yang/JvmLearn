@@ -74,5 +74,9 @@ public class TestSerialGCAllocation {
     }
 
 
+    public static void main(String[] args) {
+        //testAllocation();
+        testTenuringThreshold();
+    }
 
 }
